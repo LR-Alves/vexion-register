@@ -1,0 +1,1 @@
+package com.vexion.register.infrastructure.ports.input;
